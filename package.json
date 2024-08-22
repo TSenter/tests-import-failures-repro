@@ -52,7 +52,7 @@
     "ember-page-title": "^8.2.3",
     "ember-qunit": "^8.1.0",
     "ember-resolver": "^11.0.1",
-    "ember-source": "~5.10.0",
+    "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/85a4f298f67ff70395cf7f9103682335162e0606.tgz",
     "ember-template-lint": "^5.13.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
